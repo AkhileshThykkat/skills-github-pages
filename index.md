@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my first page
 ---
 ---
 written by Akhilesh m t
